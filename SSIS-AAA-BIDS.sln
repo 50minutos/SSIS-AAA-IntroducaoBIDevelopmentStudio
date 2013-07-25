@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "SSIS-AAA-BIDS", "SSIS-AAA-BIDS\SSIS-AAA-BIDS.dtproj", "{3F4D1E7D-AD93-43D1-813A-EDD8AD779BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F4D1E7D-AD93-43D1-813A-EDD8AD779BEF}.Development|Default.ActiveCfg = Development
+		{3F4D1E7D-AD93-43D1-813A-EDD8AD779BEF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
